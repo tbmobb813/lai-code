@@ -1,0 +1,6 @@
+packages:
+  - 'packages/core'
+  - 'packages/lai'
+
+onlyBuiltDependencies:
+  - better-sqlite3
