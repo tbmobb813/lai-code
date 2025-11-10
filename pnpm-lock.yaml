@@ -60,7 +60,7 @@ importers:
 
   packages/lai:
     dependencies:
-      '@lia-code/core':
+      '@lai/core':
         specifier: workspace:*
         version: link:../core
       '@tauri-apps/api':
